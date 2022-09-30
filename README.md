@@ -1,1 +1,1 @@
-Introductionto C - argc, argv
+This is an ALX low level programming project
